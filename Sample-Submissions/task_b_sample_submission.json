@@ -1,0 +1,46 @@
+[
+    {
+        "topic_id": "B1",
+        "responses": [
+            {
+                "text": "There are several surgical approaches that have been effective in reducing symptoms in adult patients with obstructive sleep apnea (OSA).",
+                "citations": {
+                    "pmids": ["24860658", "8855038"],
+                    "video_ids": ["PMC9542374_FOCVID19907V001.mp4",  "_FyEuG37fXE"]
+                }
+            },
+            {
+                "text": "One approach is the transorbital approach, which is a minimally invasive technique for repair of an anterior skull base in cephalocile.",
+                "citations": {
+                    "pmids": [
+                        "6801592"
+                    ],
+                    "video_ids": [ "PMC9542648_FOCVID20184V001.mp4"]
+                }
+            },
+            ]
+    },
+    {
+        "topic_id": "B2",
+        "responses": [
+            {
+                "text": "To diagnose urinary stones, various tests can be performed.",
+                "citations": {
+                    "pmids": ["7261488", "19734505"],
+                    "video_ids": ["jTPmYSYoG3U", "PMC8343061_mmc1.mp4"]
+                }
+            },
+            {
+                "text": "Double-lead tests can reveal elevated hepatopidiary enzymes and CRP levels.",
+                "citations": {
+                    "pmids": [
+                        "21563418"
+                    ],
+                    "video_ids": ["X3L6qLdtUfA"]
+                }
+            }
+           
+    ]
+    }
+  
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "topic_id": "A1",
+        "relevant_documents": [
+            {
+                "doc_id": "6801592",
+                "relevant_score": 0.9990139007568359
+            },
+            {
+                "doc_id": "24860658",
+                "relevant_score": 0.998965859413147
+            },
+            {
+                "doc_id": "3906305",
+                "relevant_score": 0.9989426732063293
+            },
+            {
+                "doc_id": "38934666",
+                "relevant_score": 0.9981402158737183
+            },
+            {
+                "doc_id": "9065654",
+                "relevant_score": 0.9979054927825928
+            },
+            {
+                "doc_id": "8855038",
+                "relevant_score": 0.9959197044372559
+            },
+            {
+                "doc_id": "34643525",
+                "relevant_score": 0.9959093332290649
+            },
+            {
+                "doc_id": "3965833",
+                "relevant_score": 0.995721697807312
+            },
+            {
+                "doc_id": "3626731",
+                "relevant_score": 0.9955636262893677
+            },
+            {
+                "doc_id": "22930088",
+                "relevant_score": 0.9946980476379395
+            }
+        ],
+        "relevant_videos": [
+            {
+                "video_id": "PMC7730137_mmc1.mp4",
+                "relevant_score": 0.6982669234275818
+            },
+            {
+                "video_id": "PMC9542374_FOCVID19907V001.mp4",
+                "relevant_score": 0.5948929190635681
+            },
+            {
+                "video_id": "PMC10114911_2023.mp4",
+                "relevant_score": 0.3644345998764038
+            },
+            {
+                "video_id": "PMC8980158_jmis-22-3-131_video_suppl.mp4",
+                "relevant_score": 0.20079581439495087
+            },
+            {
+                "video_id": "PMC8248020_SNI-12-279-s001.mp4",
+                "relevant_score": 0.07622100412845612
+            },
+            {
+                "video_id": "PMC7193653_SNI-11-84-s001.mp4",
+                "relevant_score": 0.07170403003692627
+            },
+            {
+                "video_id": "PMC9932211_mmc1.mp4",
+                "relevant_score": 0.04983813315629959
+            },
+            {
+                "video_id": "PMC9108273_mmc1.mp4",
+                "relevant_score": 0.03944702446460724
+            },
+            {
+                "video_id": "PMC8986635_SNI-13-95-s001.mp4",
+                "relevant_score": 0.03750545158982277
+            },
+            {
+                "video_id": "PMC9263871_mmc1.mp4",
+                "relevant_score": 0.03724580630660057
+            }
+        ]
+    },
+    {
+        "topic_id": "A2",
+        "relevant_documents": [
+            {
+                "doc_id": "21563418",
+                "relevant_score": 0.9985003471374512
+            },
+            {
+                "doc_id": "25036786",
+                "relevant_score": 0.9956745505332947
+            },
+            {
+                "doc_id": "7855963",
+                "relevant_score": 0.9946202039718628
+            },
+            {
+                "doc_id": "29730498",
+                "relevant_score": 0.9928932785987854
+            },
+            {
+                "doc_id": "8490663",
+                "relevant_score": 0.986977756023407
+            },
+            {
+                "doc_id": "41359136",
+                "relevant_score": 0.9837090969085693
+            },
+            {
+                "doc_id": "38961140",
+                "relevant_score": 0.9812232255935669
+            },
+            {
+                "doc_id": "3384606",
+                "relevant_score": 0.9807629585266113
+            },
+            {
+                "doc_id": "34621621",
+                "relevant_score": 0.9619470238685608
+            },
+            {
+                "doc_id": "3721764",
+                "relevant_score": 0.9590074419975281
+            }
+        ],
+        "relevant_videos": [
+            {
+                "video_id": "2eMTwij180U",
+                "relevant_score": 0.30655989050865173
+            },
+            {
+                "video_id": "PMC5793945_CEJU-70-1441-S1.mp4",
+                "relevant_score": 0.08237773180007935
+            },
+            {
+                "video_id": "PMC8351126_mmc1.mp4",
+                "relevant_score": 0.04536864534020424
+            },
+            {
+                "video_id": "PMC8097646_CEJU-74-0330.mp4",
+                "relevant_score": 0.029838986694812775
+            },
+            {
+                "video_id": "PMC7003199_mmc1.mp4",
+                "relevant_score": 0.023220987990498543
+            },
+            {
+                "video_id": "PMC8317804_mmc1.mp4",
+                "relevant_score": 0.017477676272392273
+            },
+            {
+                "video_id": "PMC9136199_11255_2022_3244_MOESM1_ESM.mp4",
+                "relevant_score": 0.016543593257665634
+            },
+            {
+                "video_id": "PMC7203773_CEJU-73-0068-S1.mp4",
+                "relevant_score": 0.01206935290247202
+            },
+            {
+                "video_id": "PMC7730134_mmc1.mp4",
+                "relevant_score": 0.009038330987095833
+            },
+            {
+                "video_id": "PMC5990666_mmc1.mp4",
+                "relevant_score": 0.008633747696876526
+            }
+        ]
+    }
+  
+]

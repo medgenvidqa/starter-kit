@@ -1,0 +1,27 @@
+[
+    {
+        "id": "C1",
+        "answer_start": "00:07",
+        "answer_end": "06:08"
+    },
+    {
+        "id": "C2",
+        "answer_start": "02:28",
+        "answer_end": "04:43"
+    },
+    {
+        "id": "C3",
+        "answer_start": "01:10",
+        "answer_end": "03:58"
+    },
+    {
+        "id": "C4",
+        "answer_start": "00:36",
+        "answer_end": "04:38"
+    },
+    {
+        "id": "C5",
+        "answer_start": "01:00",
+        "answer_end": "05:29"
+    }
+]
