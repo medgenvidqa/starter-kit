@@ -51,8 +51,10 @@ You may need to fill out the form to agree to the license terms. Once your reque
 
 ## Download the fine-tuned adapter from [here](https://drive.google.com/drive/folders/1kydixzQ1ffkVK3dMsAKH7rl4cj7hJDCB?usp=sharing) and place them in ```data/FineTunedAdapter``` [Task B only]
 
-
-
+Change directory to 
+```
+cd src/
+```
 ## Download and index pubmed baseline
 ```shell script
 ./build_pubmed_index.sh
@@ -68,18 +70,15 @@ It will index 28,372,706 PubMed documents.
 
 ## Run Task A Baseline
 ```
- cd src/
  python task_a_baseline.py
 ```
 The submission ready files (3 baseline approaches) will be saved in ```data/BaselineResults``` directory. 
 
 ## Run Task B Baseline
 ```
- cd src/
  python task_b_baseline.py
 ```
 
 ## Run Task C Baseline
 ```
- cd src/
  python task_c_baseline.py
