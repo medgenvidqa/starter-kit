@@ -1,4 +1,4 @@
-# MedGenVidQA 2026 Starter Kit (Baselines)
+# MedGenVidQA 2026 Starter Kit
 
 
 Please install [Anaconda](https://www.anaconda.com/distribution/) to create a conda environment as follows:
