@@ -5,7 +5,7 @@ from pathlib import Path
 import re
 
 
-EXPECTED_TOPICS = {f"C{i}" for i in range(1, 6)}
+EXPECTED_TOPICS = {f"C{i}" for i in range(1, 81)}
 
 
 logger = logging.getLogger("submission_validator")
