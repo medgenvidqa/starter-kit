@@ -188,7 +188,7 @@ def main():
 
     if len(sys.argv) != 2:
         logger.error(
-            "Usage: python validate_submission.py submission.json"
+            "Usage: python task_a_validation.py submission.json"
         )
         sys.exit(1)
 
